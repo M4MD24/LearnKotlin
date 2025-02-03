@@ -1,0 +1,127 @@
+# <u style="font-style: italic; color: #7F52FF;">Learn Java</u>
+
+---
+
+## <span style="font-style: italic; color: limeGreen;">About the Project Owner</span>
+
+- <img width="20" src="readme_file_source/icons/n_letter_icon.svg" alt="N Letter" style="vertical-align: middle;"/>Name <u style="text-decoration-color: #32cd32;">Mohamed Sadawy Thabet</u> <span style="color: limeGreen;">(M3MD69)
+- <img width="20" src="readme_file_source/icons/f_letter_icon.svg" alt="F Letter" style="vertical-align: middle;"/>Field <u style="text-decoration-color: #32cd32;">Software Engineer</u> / <u style="text-decoration-color: #32cd32;">Native Android Developer</u>
+- <img width="20" src="readme_file_source/icons/mention_icon.svg" alt="Mention Icon" style="vertical-align: middle;"/> Accounts
+    <ul>
+        <li><img width="20" src="readme_file_source/icons/telegram_icon.svg" alt="Telegram Icon" style="vertical-align: middle;"/> Telegram Accounts</li>
+        <ul>
+            <li><img width="20" src="readme_file_source/icons/telegram_icon.svg" alt="Telegram Icon" style="vertical-align: middle;"/> Private <a style="color: limeGreen;" href="https://t.me/M3MD69">@M3MD69</a></li>
+            <li><img width="20" src="readme_file_source/icons/telegram_icon.svg" alt="Telegram Icon" style="vertical-align: middle;"/> Nullexia For Programming <a style="color: limeGreen;" href="https://t.me/Nullexia">@Nullexia</a></li>
+            <li><img width="20" src="readme_file_source/icons/telegram_icon.svg" alt="Telegram Icon" style="vertical-align: middle;"/> Software Consulting <a style="color: limeGreen;" href="https://t.me/SoftwareConsulting">@SoftwareConsulting</a></li>
+        </ul>
+        <li><img width="20" src="readme_file_source/icons/g_letter_icon.svg" alt="G Letter" style="vertical-align: middle;"/> Github <a style="color: limeGreen;" href="https://github.com/M3MD69">@M3MD69</a></li>
+    </ul>
+
+---
+
+## <span style="font-style: italic; color: #7F52FF;">About the Project Details</span>
+
+- **Recommended using** `Intellij IDEA (Community / Ultimate / EAP), Aqua, Fleet`
+- **Currently Used** `Intellij Idea Community`
+- **Kotlin Version** `2.1.10`
+- **Java Version** `23 Oracle OpenJDK Version 23.0.2` - `SDK Default`
+- **MySQL Version** `8.0.40`
+- **PostgreSQL Version** `17.2`
+- **SQLite Version** `3.47.2`
+- **HSQLDB Version** `2.7.0`
+
+---
+
+## <span style="font-style: italic; color: #7F52FF;">Tips for search important comments</span>
+
+- For Search in Intellij IDEA `CTRL + Shift + F`, Select (In Project Option), and:
+
+    - Search `! */` for **<span style="color: #7F52FF;">Advices, Tips and Errors</span>**
+    - Search `. */` for **<span style="color: #7F52FF;">Definitions</span>**
+    - Search `/* ~` for **<span style="color: #7F52FF;">The Difference Between</span>**
+    - Search `/* ↓` for **<span style="color: #7F52FF;">Examples</span>**
+    - Search `/* √` for **<span style="color: #7F52FF;">Similar Concepts and Definition of Letters</span>**
+    - Search `/* ■` for **<span style="color: #7F52FF;">Tables</span>**
+    - Search `// •` for **<span style="color: #7F52FF;">Important Things</span>**
+    - Search `<h1>Problem` for **<span style="color: #7F52FF;">Problems</span>**
+    - Search `// >` for **<span style="color: #7F52FF;">Another Solution</span>**
+    - Search `[//]: # (Notes)` for **<span style="color: #7F52FF;">Important Notes</span>**
+    - Search `[//]: # (Notes How)` for **<span style="color: #7F52FF;">Notes How</span>**
+
+---
+
+## 1. [<span style="color: #7F52FF;">Learn</span>](src/_1_learn)
+
+- <u style="text-decoration-color: #7F52FF;">Learn Examples of Concepts</u><span style="color: #7F52FF;">.</span>
+
+### 1. [<span style="color: #7F52FF;">Basics</span>](src/_1_learn/_1_1_basics)
+
+1. Variables and Values
+2. Input and Print
+3. Comment
+4. Data Types
+5. Casting
+6. Literal
+7. Operators
+    1. Arithmetic Operators
+    2. Bitwise Operators
+    3. Relational Operators
+    4. Logical Operators
+    5. Unary Operators
+    6. Assignment Operators
+8. Arrays
+    1. Array
+    2. Multidimensional Array
+    3. Copy Array
+9. Flow Control
+    1. If Statement
+        1. If and Else
+        2. Ternary Operator
+    2. When
+    3. Loops
+        1. Do and While
+        2. For
+        3. For Each
+10. keywords
+    1. Break
+    2. Continue
+11. Function Types
+12. Date and Time
+13. Expressions
+    1. Lambda Expressions
+    2. Regular Expressions
+14. Threads
+15. Math
+16. String Buffer
+17. String Builder
+18. Escape Sequences
+19. Text Color Strings
+20. Methods and Functions Types
+21. Comment Types
+22. Bit Manipulation
+23. Varargs
+
+### 2. [<span style="color: #7F52FF;">Handling</span>](src/_1_learn/_1_2_handling)
+
+1. Exceptions Handing
+    1. Try, Catch, Finally, throw and throws
+    2. Annotation
+    3. Assertion
+
+2. File Handling
+    1. Input and output Streams (I/O Streams)
+        1. Input and Output
+        2. (Input / Output) Stream
+        3. File (Input / Output) Stream
+        4. Byte Array (Input / Output) Stream
+        5. Object (Input / Output) Stream
+        6. Buffered (Input / Output) Stream
+        7. Print Stream
+    2. Reader and Writer
+        1. (Reader / Writer)
+        2. (Input / Output) Stream (Reader / Writer)
+        3. File (Reader / Writer)
+        4. Buffered (Reader / Writer)
+        5. String (Reader / Writer)
+        6. Print Writer
+    3. File
