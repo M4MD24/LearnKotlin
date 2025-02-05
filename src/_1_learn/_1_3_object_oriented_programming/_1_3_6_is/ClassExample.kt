@@ -1,0 +1,3 @@
+package _1_learn._1_3_object_oriented_programming._1_3_6_is
+
+class ClassExample

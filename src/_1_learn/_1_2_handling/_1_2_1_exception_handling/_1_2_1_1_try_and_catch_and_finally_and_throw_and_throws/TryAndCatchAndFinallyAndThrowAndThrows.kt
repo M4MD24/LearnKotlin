@@ -39,7 +39,6 @@ fun divideByZero() {
     }
 }
 
-@Throws(IOException::class)
 fun findFile() {
     try {
         fetchPathFile()
@@ -48,7 +47,6 @@ fun findFile() {
     }
 }
 
-@Throws(IOException::class)
 fun fetchPathFile() {
     val newFile = File("src\\_1_learn\\_1_2_handling\\_1_2_1_exception_handling\\_1_2_1_1_try_and_catch_and_finally_and_throw_and_throws\\example.txt")
     FileInputStream(newFile).use { println("File found and opened successfully.") }

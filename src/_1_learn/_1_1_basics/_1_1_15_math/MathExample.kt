@@ -1,6 +1,6 @@
 package _1_learn._1_1_basics._1_1_15_math
 
-import kotlin.math.*;
+import kotlin.math.*
 
 fun main() {
     println(".max()   : " + max(1.0, 2.0))

@@ -1,4 +1,4 @@
-# <u style="font-style: italic; color: #7F52FF;">Learn Java</u>
+# <u style="font-style: italic; color: #7F52FF;">Learn Kotlin</u>
 
 ---
 
@@ -96,10 +96,10 @@
 17. String Builder
 18. Escape Sequences
 19. Text Color Strings
-20. Methods and Functions Types
-21. Comment Types
-22. Bit Manipulation
-23. Varargs
+20. Bit Manipulation
+21. Varargs
+22. Nullable Types
+23. Higher Order Function
 
 ### 2. [<span style="color: #7F52FF;">Handling</span>](src/_1_learn/_1_2_handling)
 
@@ -125,3 +125,82 @@
         5. String (Reader / Writer)
         6. Print Writer
     3. File
+
+### 3. [<span style="color: #7F52FF;">OOP (Object Oriented Programming)</span>](src/_1_learn/_1_3_object_oriented_programming)
+
+1. Class and Object and Constructor
+2. Init (Initialize)
+3. Overloading Method
+4. Getter and Setter
+5. Recursion
+6. Is
+7. Inheritance
+8. Abstraction
+9. Polymorphism
+10. Encapsulation
+11. Data Hiding
+12. Interface
+13. Data Class
+14. Enum
+15. Enum Constructor
+16. Local Class
+17. Nested Class
+18. Inner Class
+19. Object Class
+20. Companion Object
+21. Keywords
+    1. Abstract, Override and Super
+    2. ~~Internal~~
+    3. ~~Sealed~~
+       1. ~~Class~~
+       2. ~~Interface~~
+22. Generic Class
+23. Scope Functions
+    1. Also
+    2. Apply
+    3. Let
+    4. Run
+    5. With
+24. Coroutines
+    1. Ways
+         1. Sequential Way
+         2. Coroutine Way and Suspend
+    2. Functions
+         1. Launch
+         2. Async
+         3. With Context
+25. Association
+26. Extension Functions
+27. Delegation and By
+28. Infix Function
+
+---
+
+## <span style="color: #7F52FF;">Resources</span>
+
+### <span style="color: #7F52FF;">Learning</span>
+
+- <span style="color: #7F52FF;">Note: </span><u style="text-decoration-color: #7F52FF;">After learning from the sources, what was explained in the project is explained in my ways not copied mostly</u><span style="color: #7F52FF;">.</span>
+
+#### Websites
+
+<ul>
+<li><a style="color: #7F52FF;" href="https://kotlinlang.org/docs/home.html">Kotlin Documentation</a></li>
+<li><a style="color: #7F52FF;" href="https://satr.codes">Satr</a></li>
+<li><a style="color: #7F52FF;" href="https://www.geeksforgeeks.org">GeeksForGeeks</a></li>
+<li><a style="color: #7F52FF;" href="https://www.youtube.com">Youtube</a></li>
+</ul>
+
+### <span style="color: #7F52FF;">Solving</span>
+
+#### Websites
+
+<ul>
+<li><a style="color: #7F52FF;" href="https://www.w3schools.com">W3Schools</a></li>
+<li><a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a></li>
+<li><a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a></li>
+<li><a style="color: #7F52FF;" href="https://satr.codes">Satr</a></li>
+<li><a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a></li>
+<li><a style="color: #7F52FF;" href="https://leetcode.com">LeetCode</a></li>
+<li><a style="color: #7F52FF;" href="https://www.hackerrank.com">HackerRank</a></li>
+</ul>
