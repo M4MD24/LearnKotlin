@@ -194,13 +194,13 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (131 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (74 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
 |                                Name                                | Problems / Mini Projects |
 |:------------------------------------------------------------------:|:------------------------:|
-| <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> |       131 Problems       |
+| <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> |       74 Problems        |
 
 #### <p style="color: #7F52FF;">Notes</p>
 
@@ -216,10 +216,10 @@
 
 ### <span>5. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (74 Problems, (74 Easy, 0 Medium, 0 Hard)) 🟥</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
 
-1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (131 Problems)
+1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (74 Problems)
     1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (74 Problems)
-    2. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (0 Problems) [//]: # (43)
-    3. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (0 Problems) [//]: # (14)
+    2. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (0 Problems)
+    3. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (0 Problems)
 
 ---
 
