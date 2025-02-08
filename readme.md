@@ -194,32 +194,32 @@
 
 ---
 
-## 2. <span style="color: #e76f00;">Solve (131 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (131 Problems)</span>
 
-<li><u style="text-decoration-color: #e76f00;">Solve problems</u><span style="color: #e76f00;">.</span></li>
+<li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
 |                                Name                                | Problems / Mini Projects |
 |:------------------------------------------------------------------:|:------------------------:|
-| <a style="color: #e76f00;" href="https://coderhub.sa">CoderHub</a> |       131 Problems       |
+| <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> |       131 Problems       |
 
-#### <p style="color: #e76f00;">Notes</p>
+#### <p style="color: #7F52FF;">Notes</p>
 
 <ul>
-<li><u style="text-decoration-color: #e76f00;">There are some Problems where the requirements and names have been changed without changing the important programming terms</u> <span style="color: #e76f00;">.</span></li>
+<li><u style="text-decoration-color: #7F52FF;">There are some Problems where the requirements and names have been changed without changing the important programming terms</u> <span style="color: #7F52FF;">.</span></li>
 <br/>
 <li>What does Mean (🟥 & 🟩) ?</li>
 <ul>
-<li>🟥: <u style="text-decoration-color: #e76f00;">Not Complete</u></li>
-<li>🟩: <u style="text-decoration-color: #e76f00;">Complete</u></li>
+<li>🟥: <u style="text-decoration-color: #7F52FF;">Not Complete</u></li>
+<li>🟩: <u style="text-decoration-color: #7F52FF;">Complete</u></li>
 </ul>
 </ul>
 
-### <span>5. <a style="color: #e76f00;" href="https://coderhub.sa">CoderHub</a> (131 Problems, (74 Easy, 43 Medium, 14 Hard)) 🟩</span> (<a style="color: #e76f00;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
+### <span>5. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (74 Problems, (74 Easy, 0 Medium, 0 Hard)) 🟥</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
 
-1. <a style="color: #e76f00;" href="https://coderhub.sa/challenges">Challenges</a> (131 Problems)
-    1. <a style="color: #e76f00;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (74 Problems)
-    2. <a style="color: #e76f00;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (43 Problems)
-    3. <a style="color: #e76f00;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (14 Problems)
+1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (131 Problems)
+    1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (74 Problems)
+    2. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (0 Problems) [//]: # (43)
+    3. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (0 Problems) [//]: # (14)
 
 ---
 
