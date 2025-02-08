@@ -29,9 +29,7 @@ import java.io.PrintStream
  *
  */
 
-fun main() {
-    printStream()
-}
+fun main() = printStream()
 
 private fun printStream() {
     val out = PrintStream("src/_1_learn/_1_2_handling/_1_2_2_file_handling/_1_2_2_1_input_and_output_streams/_1_2_2_1_7_print_stream/PrintStream.txt")
