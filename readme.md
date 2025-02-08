@@ -174,6 +174,24 @@
 27. Delegation and By
 28. Infix Function
 
+### 4. [<span style="color: #7F52FF;">DS (Data Structures)</span>](src/_1_learn/_1_4_data_structures)
+
+1. List
+2. Mutable List
+3. Array List
+4. Array
+5. Set
+6. Mutable Set
+7. Hash Set
+8. Linked Hash Set
+9. Map
+10. Mutable Map
+11. Hash Map
+12. Linked Hash Map
+13. Pair
+14. Triple
+15. Sequence
+
 ---
 
 ## 2. <span style="color: #e76f00;">Solve (131 Problems)</span>
