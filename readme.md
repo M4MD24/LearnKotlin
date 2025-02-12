@@ -224,10 +224,10 @@
     1. <a style="color: #7F52FF;" href="https://coderhub.sa/activities/4c0842ab-2921-4e6b-a8e2-0fd4af54c7b6/view">Leap 25 / Day 1 General Trip</a> (2 Problems)
         1. Easy (1 Problem)
         2. Hard (1 Problem)
-    2. <a style="color: #7F52FF;" href="https://coderhub.sa/activities/4c0842ab-2921-4e6b-a8e2-0fd4af54c7b6/view">Leap 25 / Day 2 General Trip</a> (2 Problems)
+    2. <a style="color: #7F52FF;" href="https://coderhub.sa/activities/7a1f503c-e624-4b48-8989-05df055546c7/view">Leap 25 / Day 2 General Trip</a> (2 Problems)
         1. Easy (1 Problem)
         2. Hard (1 Problem)
-    3. <a style="color: #7F52FF;" href="https://coderhub.sa/activities/4c0842ab-2921-4e6b-a8e2-0fd4af54c7b6/view">Leap 25 / Day 3 General Trip</a> (2 Problems)
+    3. <a style="color: #7F52FF;" href="https://coderhub.sa/activities/286d456b-d5e9-4c1e-96c0-64e4af596bc9/view">Leap 25 / Day 3 General Trip</a> (2 Problems)
         1. Easy (1 Problem)
         2. Hard (1 Problem)
 
