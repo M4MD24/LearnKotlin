@@ -25,10 +25,6 @@
 - **Currently Used** `Intellij Idea Community`
 - **Kotlin Version** `2.1.10`
 - **Java Version** `23 Oracle OpenJDK Version 23.0.2` - `SDK Default`
-- **MySQL Version** `8.0.40`
-- **PostgreSQL Version** `17.2`
-- **SQLite Version** `3.47.2`
-- **HSQLDB Version** `2.7.0`
 
 ---
 
