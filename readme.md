@@ -196,7 +196,7 @@
 
 |                                Name                                | Problems / Mini Projects |
 |:------------------------------------------------------------------:|:------------------------:|
-| <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> |       141 Problems       |
+| <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> |       139 Problems       |
 
 #### <p style="color: #7F52FF;">Notes</p>
 
@@ -210,7 +210,7 @@
 </ul>
 </ul>
 
-### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (141 Problems, (78 Easy, 44 Medium, 17 Hard)) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
+### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (139 Problems, (78 Easy, 44 Medium, 17 Hard)) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
 
 1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (131 Problems)
     1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (74 Problems)
