@@ -190,13 +190,14 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (141 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (165 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
-|                                Name                                | Problems / Mini Projects |
-|:------------------------------------------------------------------:|:------------------------:|
-| <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> |       141 Problems       |
+|                                 Name                                 | Problems / Mini Projects |
+|:--------------------------------------------------------------------:|:------------------------:|
+|  <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>  |       139 Problems       |
+| <a style="color: #7F52FF;" href="https://coderhub.sa">Codeforces</a> |       26 Problems        |
 
 #### <p style="color: #7F52FF;">Notes</p>
 
@@ -210,7 +211,7 @@
 </ul>
 </ul>
 
-### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (141 Problems, (78 Easy, 44 Medium, 17 Hard)) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
+### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (139 Problems, (78 Easy, 44 Medium, 17 Hard)) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
 
 1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (131 Problems)
     1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (74 Problems)
@@ -229,6 +230,11 @@
     4. <a style="color: #7F52FF;" href="https://coderhub.sa/activities/731eec85-c9be-493e-8fd2-80b4a109b70a/view">Leap 25 / Day 4 General Trip</a> (2 Problems)
         1. Easy (1 Problem)
         2. Hard (1 Problem)
+
+### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (26 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
+
+1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Assiut Sheets</a> (26 Problems)
+    1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Sheet 1</a> (26 Problems)
 
 ---
 
@@ -253,4 +259,5 @@
 
 <ul>
 <li><a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a></li>
+<li><a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a></li>
 </ul>
