@@ -190,14 +190,14 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (174 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (200 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
 |                                 Name                                 | Problems / Mini Projects |
 |:--------------------------------------------------------------------:|:------------------------:|
 |  <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>  |       139 Problems       |
-| <a style="color: #7F52FF;" href="https://coderhub.sa">Codeforces</a> |       35 Problems        |
+| <a style="color: #7F52FF;" href="https://coderhub.sa">Codeforces</a> |       61 Problems        |
 
 #### <p style="color: #7F52FF;">Notes</p>
 
@@ -231,11 +231,12 @@
         1. Easy (1 Problem)
         2. Hard (1 Problem)
 
-### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (35 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
+### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (61 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
 
 1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Assiut Sheets</a> (35 Problems)
-    1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Sheet 1</a> (26 Problems)
+    1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219158">Sheet 1 "Data Types - Conditions"</a> (26 Problems)
     2. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/326175">Contest 1</a> (9 Problems)
+    3. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219432">Sheet 2 "Loops""</a> (26 Problems)
 
 ---
 
