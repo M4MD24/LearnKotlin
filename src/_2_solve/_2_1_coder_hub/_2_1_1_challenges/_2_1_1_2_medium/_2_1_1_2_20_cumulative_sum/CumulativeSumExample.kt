@@ -18,7 +18,7 @@ private fun geCumulativeSum(numbers: MutableList<Int>): MutableList<Int> {
     return numbers
 }
 
-// > Another Solution
+// >
 /*
 private fun geCumulativeSum(numbers: MutableList<Int>): MutableList<Int> {
     var currentSum = numbers[0]
