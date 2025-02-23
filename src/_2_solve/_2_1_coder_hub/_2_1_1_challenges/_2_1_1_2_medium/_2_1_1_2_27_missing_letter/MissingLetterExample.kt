@@ -9,7 +9,7 @@ private fun getMissingLetter(text: String): String {
     return "No Missing Letter"
 }
 
-// > Another Solution
+// >
 /*
 private fun getMissingLetter(text: String): String {
     val missingLetters = StringBuilder()

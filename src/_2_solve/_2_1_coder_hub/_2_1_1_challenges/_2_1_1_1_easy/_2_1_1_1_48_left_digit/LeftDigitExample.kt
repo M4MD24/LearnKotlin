@@ -6,7 +6,7 @@ private fun leftDigit(text: String) = text
     .firstOrNull { it.isDigit() }
     ?.digitToInt() ?: 0
 
-// > Another Solution
+// >
 /*
 private fun leftDigit(text: String) = "\\d"
     .toRegex()
