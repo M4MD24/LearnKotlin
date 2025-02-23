@@ -7,7 +7,7 @@ fun main() {
     print(greatestCommonDivisor(firstNumber, secondNumber))
 }
 
-tailrec fun greatestCommonDivisor(
+private tailrec fun greatestCommonDivisor(
     firstNumber: Short,
     secondNumber: Short
 ): Short = if (secondNumber == (0).toShort())

@@ -27,18 +27,18 @@ fun main() {
     }
 }
 
-fun binarySearch(
+private fun binarySearch(
     values: List<Int>,
     targetValue: Int
 ): Boolean {
-    var left = 0
-    var right = values.size - 1
-    while (left <= right) {
-        val middle = (left + right) / 2
+    var leftIndex = 0
+    var rightIndex = values.size - 1
+    while (leftIndex <= rightIndex) {
+        val middle = (leftIndex + rightIndex) / 2
         when {
             values[middle] == targetValue -> return true
-            values[middle] < targetValue -> left = middle + 1
-            else -> right = middle - 1
+            values[middle] < targetValue -> leftIndex = middle + 1
+            else -> rightIndex = middle - 1
         }
     }
     return false
