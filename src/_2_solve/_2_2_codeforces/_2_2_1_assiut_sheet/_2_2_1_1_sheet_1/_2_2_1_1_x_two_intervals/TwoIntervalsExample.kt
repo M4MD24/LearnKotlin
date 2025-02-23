@@ -7,7 +7,7 @@ fun main() {
         secondLeft,
         secondRight
     ) = readln()
-        .split(" ")
+        .split(' ')
         .map { it.toInt() }
     val start = maxOf(firstLeft, secondLeft)
     val end = minOf(firstRight, secondRight)

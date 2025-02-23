@@ -5,11 +5,11 @@ fun main() {
     print(
         (0..<targetNumber)
             .joinToString(" ")
-            { fibonacci(it.toByte()).toString() }
+            { getFibonacci(it.toByte()).toString() }
     )
 }
 
-private fun fibonacci(
+private fun getFibonacci(
     targetNumber: Byte,
     cache: MutableMap<Int, Long> = mutableMapOf()
 ): Long {
@@ -17,10 +17,10 @@ private fun fibonacci(
         targetNumber.toLong()
     else
         cache.getOrPut(targetNumber.toInt()) {
-            fibonacci(
+            getFibonacci(
                 (targetNumber - 1).toByte(),
                 cache
-            ) + fibonacci(
+            ) + getFibonacci(
                 (targetNumber - 2).toByte(),
                 cache
             )

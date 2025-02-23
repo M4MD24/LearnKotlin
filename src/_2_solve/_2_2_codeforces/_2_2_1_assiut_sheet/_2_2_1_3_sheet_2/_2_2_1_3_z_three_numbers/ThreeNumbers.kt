@@ -5,7 +5,7 @@ fun main() {
         maximumValue,
         targetSum
     ) = readln()
-        .split(" ")
+        .split(' ')
         .map { it.toShort() }
     print(
         countValidTriplets(
@@ -15,7 +15,7 @@ fun main() {
     )
 }
 
-fun countValidTriplets(
+private fun countValidTriplets(
     maximumValue: Short,
     targetSum: Short
 ): Int {

@@ -5,7 +5,7 @@ fun main() {
     printX(countOfLines)
 }
 
-fun printX(countOfLines: Byte) {
+private fun printX(countOfLines: Byte) {
     for (row in 0..<countOfLines) {
         for (column in 0..<countOfLines)
             print(
