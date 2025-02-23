@@ -7,7 +7,7 @@ fun main() {
             maximumNumber,
             targetSum
         ) = readln()
-            .split(" ")
+            .split(' ')
             .map { it.toLong() }
         val numbers = mutableListOf<Long>()
         var sum = targetSum
