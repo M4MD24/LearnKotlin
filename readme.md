@@ -190,14 +190,14 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (234 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (241 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
 |                                 Name                                 | Problems / Mini Projects |
 |:--------------------------------------------------------------------:|:------------------------:|
 |  <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>  |       139 Problems       |
-| <a style="color: #7F52FF;" href="https://coderhub.sa">Codeforces</a> |       95 Problems        |
+| <a style="color: #7F52FF;" href="https://coderhub.sa">Codeforces</a> |       102 Problems       |
 
 #### <p style="color: #7F52FF;">Notes</p>
 
@@ -231,7 +231,7 @@
         1. Easy (1 Problem)
         2. Hard (1 Problem)
 
-### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (95 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
+### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (102 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
 
 1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Assiut Sheets</a> (95 Problems)
     1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219158">Sheet 1 "Data Types - Conditions"</a> (26 Problems)
@@ -239,6 +239,7 @@
     3. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219432">Sheet 2 "Loops"</a> (26 Problems)
     4. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/326907">Contest 2</a> (8 Problems)
     5. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219774">Sheet 3 "Arrays"</a> (26 Problems)
+    6. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/329103">Contest 3.1</a> (7 Problems)
 
 ---
 
@@ -255,6 +256,7 @@
 <li><a style="color: #7F52FF;" href="https://satr.codes">Satr</a></li>
 <li><a style="color: #7F52FF;" href="https://www.geeksforgeeks.org">GeeksForGeeks</a></li>
 <li><a style="color: #7F52FF;" href="https://www.youtube.com">Youtube</a></li>
+<li><a style="color: #7F52FF;" href="https://typealias.com">TypeAlias</a></li>
 </ul>
 
 ### <span style="color: #7F52FF;">Solving</span>
