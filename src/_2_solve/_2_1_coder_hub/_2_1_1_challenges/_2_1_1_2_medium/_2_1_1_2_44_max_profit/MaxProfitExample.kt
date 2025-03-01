@@ -1,4 +1,4 @@
-package _2_solve._2_1_coder_hub._2_1_1_challenges._2_1_1_2_medium._2_5_1_2_44_max_profit
+package _2_solve._2_1_coder_hub._2_1_1_challenges._2_1_1_2_medium._2_1_1_2_44_max_profit
 
 fun main() {
     println(maxProfit(mutableListOf(3, 3, 5, 0, 0, 3, 1, 4)))
