@@ -190,14 +190,14 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (241 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (269 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
-|                                 Name                                 | Problems / Mini Projects |
-|:--------------------------------------------------------------------:|:------------------------:|
-|  <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>  |       139 Problems       |
-| <a style="color: #7F52FF;" href="https://coderhub.sa">Codeforces</a> |       102 Problems       |
+|                                  Name                                   | Problems / Mini Projects |
+|:-----------------------------------------------------------------------:|:------------------------:|
+|   <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>    |       141 Problems       |
+| <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> |       128 Problems       |
 
 #### <p style="color: #7F52FF;">Notes</p>
 
@@ -211,11 +211,11 @@
 </ul>
 </ul>
 
-### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (139 Problems, (78 Easy, 44 Medium, 17 Hard)) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
+### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (140 Problems, (78 Easy, 46 Medium, 17 Hard)) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
 
-1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (131 Problems)
+1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (132 Problems)
     1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (74 Problems)
-    2. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (44 Problems)
+    2. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (46 Problems)
     3. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (13 Problems)
 2. <a style="color: #7F52FF;" href="https://coderhub.sa/activities">Competitions</a> (8 Problems)
     1. <a style="color: #7F52FF;" href="https://coderhub.sa/activities/4c0842ab-2921-4e6b-a8e2-0fd4af54c7b6/view">Leap 25 / Day 1 General Trip</a> (2 Problems)
@@ -231,15 +231,22 @@
         1. Easy (1 Problem)
         2. Hard (1 Problem)
 
-### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (102 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
+### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (128 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
 
-1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Assiut Sheets</a> (95 Problems)
+1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Assiut Sheets</a> (128 Problems)
     1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219158">Sheet 1 "Data Types - Conditions"</a> (26 Problems)
     2. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/326175">Contest 1</a> (9 Problems)
     3. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219432">Sheet 2 "Loops"</a> (26 Problems)
     4. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/326907">Contest 2</a> (8 Problems)
     5. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219774">Sheet 3 "Arrays"</a> (26 Problems)
     6. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/329103">Contest 3.1</a> (7 Problems)
+    7. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219856">Sheet 4 "Strings"</a> (26 Problems)
+        - <span style="color: #7F52FF;">Errors:</span>
+            - <span style="color: #7F52FF;">J. Count Letters:</span> <u style="text-decoration-color: #7F52FF;">Memory limit exceeded on test 3</u>
+            - <span style="color: #7F52FF;">L. String Functions:</span> <u style="text-decoration-color: #7F52FF;">Runtime error on test 2</u>
+            - <span style="color: #7F52FF;">O. Sorting String:</span> <u style="text-decoration-color: #7F52FF;">Error occurred during initialization of VM, Initial heap size set to a larger value than the maximum heap size</u>
+            - <span style="color: #7F52FF;">X. Comparison:</span> <u style="text-decoration-color: #7F52FF;">Time limit exceeded on test 7</u>
+            - <span style="color: #7F52FF;">Z. Clean Code:</span> <u style="text-decoration-color: #7F52FF;">Wrong answer on test 21</u>
 
 ---
 
