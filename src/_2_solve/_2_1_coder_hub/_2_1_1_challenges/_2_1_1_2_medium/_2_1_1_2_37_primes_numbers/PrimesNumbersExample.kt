@@ -1,5 +1,7 @@
 package _2_solve._2_1_coder_hub._2_1_1_challenges._2_1_1_2_medium._2_1_1_2_37_primes_numbers
 
+import kotlin.math.sqrt
+
 fun main() {
     println(getPrimeNumbers(mutableListOf(2, 5, 8, 12, 25)))
     println(getPrimeNumbers(mutableListOf(27, 23, 5, 9)))
@@ -24,7 +26,7 @@ private fun isPrime(number: Int): Boolean {
         return true
     if (number % 2 == 0 || number % 3 == 0)
         return false
-    for (index in 5..Math.sqrt(number.toDouble()).toInt() step 2)
+    for (index in 5..sqrt(number.toDouble()).toInt() step 2)
         if (number % index == 0)
             return false
     return true
