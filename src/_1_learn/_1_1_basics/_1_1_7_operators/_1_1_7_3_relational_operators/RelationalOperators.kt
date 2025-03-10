@@ -10,6 +10,7 @@ fun main() {
      * ( < ) Less than
      * ( >= ) Greater than or equal to
      * ( <= ) Less than or equal to
+     * ( === ) Equal and Same Object to
      * */
 
     val number1 = 3
@@ -32,4 +33,10 @@ fun main() {
 
     val lessThanOrEqualTo = number1 <= number2 // Less than or equal to = (true)
     println("Less than or equal to = $lessThanOrEqualTo")
+
+    val text1 = ("")
+    val text2 = ""
+
+    val equalAndSameObjectTo = text1 === text2 // Equal and Same Object to = (false)
+    print("Equal and Same Object To $equalAndSameObjectTo")
 }
