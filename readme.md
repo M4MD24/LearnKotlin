@@ -190,14 +190,14 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (287 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (339 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
 |                                  Name                                   | Problems / Mini Projects |
 |:-----------------------------------------------------------------------:|:------------------------:|
 |   <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>    |       144 Problems       |
-| <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> |       143 Problems       |
+| <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> |       195 Problems       |
 
 #### <p style="color: #7F52FF;">Notes</p>
 
@@ -231,9 +231,9 @@
         1. Easy (1 Problem)
         2. Hard (1 Problem)
 
-### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (143 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
+### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (195 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
 
-1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Assiut Sheets</a> (143 Problems)
+1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Assiut Sheets</a> (195 Problems)
     1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219158">Sheet 1 "Data Types - Conditions"</a> (26 Problems)
     2. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/326175">Contest 1</a> (9 Problems)
     3. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219432">Sheet 2 "Loops"</a> (26 Problems)
@@ -248,6 +248,10 @@
             - <span style="color: #7F52FF;">X. Comparison:</span> <u style="text-decoration-color: #7F52FF;">Time limit exceeded on test 7</u>
             - <span style="color: #7F52FF;">Z. Clean Code:</span> <u style="text-decoration-color: #7F52FF;">Wrong answer on test 21</u>
     8. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223205">Sheet 5 "Functions"</a> (15 Problems)
+    9. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223338">Sheet 6 "Math - Geometry"</a> (26 Problems)
+    10. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223339">Sheet 7 "Recursion"</a> (26 Problems)
+        - <span style="color: #7F52FF;">Errors:</span>
+            - <span style="color: #7F52FF;">T. Combination:</span> <u style="text-decoration-color: #7F52FF;">Time limit exceeded on test 32</u>
 
 ---
 
