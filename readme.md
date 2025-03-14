@@ -190,7 +190,7 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (364 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (366 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
