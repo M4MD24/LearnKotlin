@@ -196,7 +196,7 @@
 
 |                                  Name                                   | Problems / Mini Projects |
 |:-----------------------------------------------------------------------:|:------------------------:|
-|   <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>    |       143 Problems       |
+|   <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>    |       145 Problems       |
 | <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> |       221 Problems       |
 
 #### <p style="color: #7F52FF;">Notes</p>
@@ -211,10 +211,10 @@
 </ul>
 </ul>
 
-### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (143 Problems, (78 Easy, 47 Medium, 18 Hard)) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
+### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (145 Problems, (80 Easy, 47 Medium, 18 Hard)) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/m3md69/public/overview">@M3MD69</a>)
 
-1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (135 Problems)
-    1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (74 Problems)
+1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (137 Problems)
+    1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (76 Problems)
     2. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (47 Problems)
     3. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (14 Problems)
 2. <a style="color: #7F52FF;" href="https://coderhub.sa/activities">Competitions</a> (8 Problems)
