@@ -4,16 +4,16 @@ fun main() {
     val (firstNumber, secondNumber) = readln()
         .split(' ')
         .map { it.toShort() }
-    print(greatestCommonDivisor(firstNumber, secondNumber))
+    print(getGreatestCommonDivisor(firstNumber, secondNumber))
 }
 
-private tailrec fun greatestCommonDivisor(
+private tailrec fun getGreatestCommonDivisor(
     firstNumber: Short,
     secondNumber: Short
 ): Short = if (secondNumber == (0).toShort())
     firstNumber
 else
-    greatestCommonDivisor(
+    getGreatestCommonDivisor(
         secondNumber,
         (firstNumber % secondNumber).toShort()
     )
