@@ -242,11 +242,7 @@
     6. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/329103">Contest 3.1</a> (7 Problems)
     7. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219856">Sheet 4 "Strings"</a> (26 Problems)
         - <span style="color: #7F52FF;">Errors:</span>
-            - <span style="color: #7F52FF;">J. Count Letters:</span> <u style="text-decoration-color: #7F52FF;">Memory limit exceeded on test 3</u>
-            - <span style="color: #7F52FF;">L. String Functions:</span> <u style="text-decoration-color: #7F52FF;">Runtime error on test 2</u>
             - <span style="color: #7F52FF;">O. Sorting String:</span> <u style="text-decoration-color: #7F52FF;">Error occurred during initialization of VM, Initial heap size set to a larger value than the maximum heap size</u>
-            - <span style="color: #7F52FF;">X. Comparison:</span> <u style="text-decoration-color: #7F52FF;">Time limit exceeded on test 7</u>
-            - <span style="color: #7F52FF;">Z. Clean Code:</span> <u style="text-decoration-color: #7F52FF;">Wrong answer on test 21</u>
     8. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223205">Sheet 5 "Functions"</a> (15 Problems)
     9. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223338">Sheet 6 "Math - Geometry"</a> (26 Problems)
     10. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223339">Sheet 7 "Recursion"</a> (26 Problems)
