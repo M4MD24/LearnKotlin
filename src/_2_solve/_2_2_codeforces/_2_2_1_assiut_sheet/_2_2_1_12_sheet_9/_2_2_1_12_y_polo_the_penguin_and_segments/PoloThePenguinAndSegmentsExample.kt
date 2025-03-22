@@ -1,0 +1,3 @@
+package _2_solve._2_2_codeforces._2_2_1_assiut_sheet._2_2_1_12_sheet_9._2_2_1_12_y_polo_the_penguin_and_segments
+
+fun main() = _2_solve._2_2_codeforces._2_2_2_problem_set._2_2_2_18_polo_the_penguin_and_segments.main()
