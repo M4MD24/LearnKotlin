@@ -190,14 +190,15 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (393 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (404 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
-|                                  Name                                   | Problems / Mini Projects |
-|:-----------------------------------------------------------------------:|:------------------------:|
-|   <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>    |       147 Problems       |
-| <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> |       246 Problems       |
+|                                    Name                                     | Problems / Mini Projects |
+|:---------------------------------------------------------------------------:|:------------------------:|
+|     <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>      |       147 Problems       |
+|   <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a>   |       246 Problems       |
+| <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> |       11 Problems        |
 
 #### <p style="color: #7F52FF;">Notes</p>
 
@@ -252,9 +253,16 @@
         - <span style="color: #7F52FF;">Errors:</span>
             - <span style="color: #7F52FF;">K. Prime Fibonacci:</span> <u style="text-decoration-color: #7F52FF;">Time limit exceeded on test 4</u>
     12. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223207">Sheet 9 "Medium"</a> (17 Problems)
+
 2. <a style="color: #7F52FF;">Problem Set</a> (18 Problems)
     1. <a style="color: #7F52FF;" href="">MAIN</a> (18 Problems)
     2. ~~<a style="color: #7F52FF;" href="https://codeforces.com/problemsets/acmsguru">ACMSGURU</a> (0 Problems)~~
+
+### <span>2. <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> (11 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
+
+1. <span style="color: #7F52FF;">Exercise</span> (11 Problems)
+    1. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/index.php">Kotlin</a> (11 Problems)
+        1. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/basic/index.php">Basic</a> (11 Problems)
 
 ---
 
@@ -281,4 +289,5 @@
 <ul>
 <li><a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a></li>
 <li><a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a></li>
+<li><a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a></li>
 </ul>
