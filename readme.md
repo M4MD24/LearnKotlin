@@ -190,14 +190,14 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (393 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (415 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
 |                                  Name                                   | Problems / Mini Projects |
 |:-----------------------------------------------------------------------:|:------------------------:|
 |   <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>    |       147 Problems       |
-| <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> |       246 Problems       |
+| <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> |       268 Problems       |
 
 #### <p style="color: #7F52FF;">Notes</p>
 
@@ -231,9 +231,9 @@
         1. Easy (1 Problem)
         2. Hard (1 Problem)
 
-### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (246 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
+### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (268 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
 
-1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Assiut Sheets</a> (228 Problems)
+1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Assiut Sheets</a> (248 Problems)
     1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219158">Sheet 1 "Data Types - Conditions"</a> (26 Problems)
     2. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/326175">Contest 1</a> (9 Problems)
     3. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219432">Sheet 2 "Loops"</a> (26 Problems)
@@ -251,9 +251,9 @@
     11. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223206">Sheet 8 "Easy"</a> (16 Problems)
         - <span style="color: #7F52FF;">Errors:</span>
             - <span style="color: #7F52FF;">K. Prime Fibonacci:</span> <u style="text-decoration-color: #7F52FF;">Time limit exceeded on test 4</u>
-    12. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223207">Sheet 9 "Medium"</a> (17 Problems)
-2. <a style="color: #7F52FF;">Problem Set</a> (18 Problems)
-    1. <a style="color: #7F52FF;" href="">MAIN</a> (18 Problems)
+    12. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223207">Sheet 9 "Medium"</a> (14 Problems)
+2. <a style="color: #7F52FF;">Problem Set</a> (22 Problems)
+    1. <a style="color: #7F52FF;" href="">MAIN</a> (22 Problems)
     2. ~~<a style="color: #7F52FF;" href="https://codeforces.com/problemsets/acmsguru">ACMSGURU</a> (0 Problems)~~
 
 ---
