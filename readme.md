@@ -190,14 +190,14 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (426 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (430 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
 |                                    Name                                     | Problems / Mini Projects |
 |:---------------------------------------------------------------------------:|:------------------------:|
 |     <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>      |       147 Problems       |
-|   <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a>   |       268 Problems       |
+|   <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a>   |       272 Problems       |
 | <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> |       11 Problems        |
 
 #### <p style="color: #7F52FF;">Notes</p>
@@ -232,7 +232,7 @@
         1. Easy (1 Problem)
         2. Hard (1 Problem)
 
-### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (268 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
+### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (272 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
 
 1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contests">Assiut Sheets</a> (248 Problems)
     1. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/219158">Sheet 1 "Data Types - Conditions"</a> (26 Problems)
@@ -250,8 +250,8 @@
     11. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223206">Sheet 8 "Easy"</a> (16 Problems)
     12. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223207">Sheet 9 "Medium"</a> (17 Problems)
     13. <a style="color: #7F52FF;" href="https://codeforces.com/group/MWSDmqGsZm/contest/223340">Sheet 10 "Hard"</a> (18 Problems)
-2. <a style="color: #7F52FF;">Problem Set</a> (22 Problems)
-    1. <a style="color: #7F52FF;" href="">MAIN</a> (22 Problems)
+2. <span style="color: #7F52FF;">Problem Set</span> (26 Problems)
+    1. <a style="color: #7F52FF;" href="https://codeforces.com/problemset">MAIN</a> (26 Problems)
     2. ~~<a style="color: #7F52FF;" href="https://codeforces.com/problemsets/acmsguru">ACMSGURU</a> (0 Problems)~~
 
 ### <span>2. <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> (11 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
