@@ -21,7 +21,7 @@ private fun calculateWinningChild(
             .sumOf { it.toInt() }
     }.toMap()
 
-    val maximumScore = nameScores.values.maxOrNull() ?: return "لا يوجد بيانات"
+    val maximumScore = nameScores.values.maxOrNull()
     val winners = nameScores.filterValues { it == maximumScore }.keys
 
     return "فائز العيد: ${winners.joinToString(", ")} بمجموع $maximumScore"
@@ -38,7 +38,7 @@ private fun calculateWinningChild(
             .sumOf { it.toInt() }
     }.toMap()
 
-    val maximumScore = nameScores.values.maxOrNull() ?: return "لا يوجد بيانات"
+    val maximumScore = nameScores.values.maxOrNull()
     val winners = nameScores.filterValues { it == maximumScore }.keys
 
     return "فائز العيد: ${winners.joinToString(", ")} بمجموع $maximumScore"
