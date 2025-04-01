@@ -1,26 +1,25 @@
 package _2_solve._2_2_codeforces._2_2_1_assiut_sheet._2_2_1_7_sheet_4._2_2_1_7_j_count_letters
 
-const val COUNT_OF_ENGLISH_LETTERS = 26
-val countOfLowerCaseLetters = IntArray(COUNT_OF_ENGLISH_LETTERS)
-const val START_CHARACTER = 'a'
+import java.util.Scanner
+
+private val INPUT = Scanner(System.`in`)
+private val TEXT: String = INPUT.next()
+private val COUNTER_TEXT_LETTERS = IntArray(26)
 
 fun main() {
-    val text = readln()
-    calculateCountOfCharacters(text)
-    printCountOfCharacters()
+    printTimesEachLetter()
 }
 
-private fun printCountOfCharacters() {
-    for (index in 0..<26) {
-        val countOfCurrentCharacter = countOfLowerCaseLetters[index]
-        if (countOfCurrentCharacter > 0) {
-            val currentCharacter = (index + START_CHARACTER.code).toChar()
-            println("$currentCharacter : $countOfCurrentCharacter")
-        }
+private fun printTimesEachLetter() {
+    countTimesEachLetter()
+    for (index in COUNTER_TEXT_LETTERS.indices) {
+        val totalTimesLetter = COUNTER_TEXT_LETTERS[index]
+        if (totalTimesLetter != 0)
+            println((index + 97).toChar().toString() + " : " + totalTimesLetter)
     }
 }
 
-private fun calculateCountOfCharacters(text: String) {
-    for (character in text)
-        countOfLowerCaseLetters[character - START_CHARACTER]++
+private fun countTimesEachLetter() {
+    for (element in TEXT)
+        COUNTER_TEXT_LETTERS[element.code - 'a'.code]++
 }
