@@ -151,6 +151,9 @@
         1. ~~Class~~
         2. ~~Interface~~
     2. Internal
+    3. Sealed
+        1. Class
+        2. Interface
 22. Generic Class
 23. Scope Functions
     1. Also
