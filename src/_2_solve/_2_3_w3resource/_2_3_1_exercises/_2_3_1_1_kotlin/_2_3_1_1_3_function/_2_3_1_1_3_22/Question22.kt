@@ -21,7 +21,7 @@ fun main() {
                 Arithmetic(commonDifference),
                 numberOfTerms
             )
-        } 
+        }
         Geometric Sum = ${
             calculateSeriesSum(
                 firstTerm,
