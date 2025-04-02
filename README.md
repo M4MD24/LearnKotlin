@@ -146,10 +146,10 @@
 20. Companion Object
 21. Keywords
     1. Abstract, Override and Super
-    2. ~~Internal~~
-    3. ~~Sealed~~
-        1. ~~Class~~
-        2. ~~Interface~~
+    2. Internal
+    3. Sealed
+        1. Class
+        2. Interface
 22. Generic Class
 23. Scope Functions
     1. Also
@@ -169,6 +169,7 @@
 26. Extension Functions
 27. Delegation and By
 28. Infix Function
+29. Data Object and Singleton
 
 ### 4. [<span style="color: #7F52FF;">DS (Data Structures)</span>](src/_1_learn/_1_4_data_structures)
 
