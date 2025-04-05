@@ -262,7 +262,7 @@
         1. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/basic/index.php">Basic</a> (11 Problems)
         2. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/control-flow/index.php">Flow Control</a> (10 Problems)
         3. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/function/index.php">Function</a> (22 Problems)
-        4. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/recursion-function/index.php">Recursion</a> (17 Problems)
+        4. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/recursion-function/index.php">Recursion (Recursive Function) and (Tail Recursion Function)</a> (17 Problems)
 
 ---
 
