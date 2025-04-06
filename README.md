@@ -191,7 +191,7 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (479 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (493 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
@@ -199,7 +199,7 @@
 |:---------------------------------------------------------------------------:|:------------------------:|
 |     <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>      |       147 Problems       |
 |   <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a>   |       272 Problems       |
-| <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> |       60 Problems        |
+| <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> |       74 Problems        |
 
 #### <p style="color: #7F52FF;">Notes</p>
 
@@ -255,14 +255,15 @@
     1. <a style="color: #7F52FF;" href="https://codeforces.com/problemset">MAIN</a> (26 Problems)
     2. ~~<a style="color: #7F52FF;" href="https://codeforces.com/problemsets/acmsguru">ACMSGURU</a> (0 Problems)~~
 
-### <span>2. <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> (60 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
+### <span>2. <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> (74 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M3MD69">@M3MD69</a>)
 
-1. <span style="color: #7F52FF;">Exercise</span> (60 Problems)
-    1. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/index.php">Kotlin</a> (60 Problems)
+1. <span style="color: #7F52FF;">Exercise</span> (74 Problems)
+    1. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/index.php">Kotlin</a> (74 Problems)
         1. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/basic/index.php">Basic</a> (11 Problems)
         2. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/control-flow/index.php">Flow Control</a> (10 Problems)
         3. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/function/index.php">Function</a> (22 Problems)
         4. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/recursion-function/index.php">Recursion (Recursive Function) and (Tail Recursion Function)</a> (17 Problems)
+        5. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/recursion-function/index.php">Lambda</a> (14 Problems)
 
 ---
 
