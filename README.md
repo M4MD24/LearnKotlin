@@ -39,7 +39,6 @@
     - Search `/* √` for **<span style="color: #7F52FF;">Similar Concepts and Definition of Letters</span>**
     - Search `/* ■` for **<span style="color: #7F52FF;">Tables</span>**
     - Search `// •` for **<span style="color: #7F52FF;">Important Things</span>**
-    - Search `<h1>Problem` for **<span style="color: #7F52FF;">Problems</span>**
     - Search `// >` for **<span style="color: #7F52FF;">Another Solution</span>**
     - Search `[//]: # (Notes)` for **<span style="color: #7F52FF;">Important Notes</span>**
     - Search `[//]: # (Notes How)` for **<span style="color: #7F52FF;">Notes How</span>**
