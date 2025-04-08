@@ -170,6 +170,7 @@
 27. Delegation and By
 28. Infix Function
 29. Data Object and Singleton
+30. Inline and Value Class
 
 ### 4. [<span style="color: #7F52FF;">DS (Data Structures)</span>](src/_1_learn/_1_4_data_structures)
 
