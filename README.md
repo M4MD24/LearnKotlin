@@ -266,7 +266,7 @@
         5. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/recursion-function/index.php">Lambda</a> (14 Problems)
         6. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/class/index.php">Class</a> (20 Problems)
         7. <a style="color: #7F52FF;" href="https://www.w3resource.com/kotlin-exercises/class/index.php">OOP (Object Oriented Programming)</a> (7 Problems)
-            - <span style="color: #7F52FF;">Note: </span><u style="text-decoration-color: #7F52FF;">Note: There are questions from the site related to the design patterns concept</u><span style="color: #7F52FF;">.</span>
+            - <span style="color: #7F52FF;">Note: </span><u style="text-decoration-color: #7F52FF;">There are questions from the site related to the design patterns concept</u><span style="color: #7F52FF;">.</span>
 
 ---
 
