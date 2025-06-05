@@ -23,8 +23,8 @@
 
 - **Recommended using** `Intellij IDEA (Community / Ultimate / EAP), Aqua, Fleet`
 - **Currently Used** `Intellij Idea Community`
-- **Kotlin Version** `2.1.10`
-- **Java Version** `23 Oracle OpenJDK Version 23.0.2` - `SDK Default`
+- **Kotlin Version** `2.1`
+- **Java Version** `24 Oracle OpenJDK Version 24.0.1` - `SDK Default`
 
 ---
 
