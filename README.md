@@ -191,13 +191,13 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (525 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (526 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
 |                                    Name                                     | Problems / Mini Projects |
 |:---------------------------------------------------------------------------:|:------------------------:|
-|     <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>      |       152 Problems       |
+|     <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>      |       153 Problems       |
 |   <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a>   |       272 Problems       |
 | <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> |       101 Problems       |
 
@@ -213,11 +213,11 @@
 </ul>
 </ul>
 
-### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (149 Problems, (81 Easy, 49 Medium, 19 Hard)) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/M4MD24/public/overview">@M4MD24</a>)
+### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (153 Problems, (82 Easy, 51 Medium, 20 Hard)) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/M4MD24/public/overview">@M4MD24</a>)
 
-1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (144 Problems)
+1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a> (145 Problems)
     1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (78 Problems)
-    2. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (50 Problems)
+    2. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (51 Problems)
     3. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (16 Problems)
 2. <a style="color: #7F52FF;" href="https://coderhub.sa/activities">Competitions</a> (8 Problems)
     1. <a style="color: #7F52FF;" href="https://coderhub.sa/activities/4c0842ab-2921-4e6b-a8e2-0fd4af54c7b6/view">Leap 25 / Day 1 General Trip</a> (2 Problems)
