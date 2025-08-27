@@ -11,9 +11,17 @@
       <sourceFolder url="file://$MODULE_DIR$/libraries" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
     </content>
+    <orderEntry type="module-library" exported="">
+      <library name="kotlin-stdlib-2.2.10">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/kotlin-stdlib-2.2.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
-    <orderEntry type="library" name="kotlinx" level="project" />
+    <orderEntry type="library" exported="" name="kotlinx" level="project" />
   </component>
 </module>
