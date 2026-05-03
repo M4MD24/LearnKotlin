@@ -197,7 +197,7 @@
 
 |                                    Name                                     | Problems / Mini Projects |
 |:---------------------------------------------------------------------------:|:------------------------:|
-|     <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>      |       154 Problems       |
+|     <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>      |       155 Problems       |
 |   <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a>   |       272 Problems       |
 | <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> |       101 Problems       |
 
@@ -218,7 +218,7 @@
 1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a>
     1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (80 Problems)
     2. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (54 Problems)
-    3. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (20 Problems)
+    3. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (21 Problems)
 
 ### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (272 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M4MD24">@M4MD24</a>)
 
