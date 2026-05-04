@@ -4,17 +4,13 @@ import kotlin.collections.mutableMapOf
 import kotlin.collections.maxOrNull
 
 fun mostFrequentPassword(passwords: MutableList<String>): String {
-    if (passwords.isEmpty()) return ""
-
+    if (passwords.isEmpty())
+        return ""
     val frequencyMap = mutableMapOf<String, Int>()
-    for (password in passwords) {
+    for (password in passwords)
         frequencyMap[password] = frequencyMap.getOrDefault(password, 0) + 1
-    }
-
-    val maxFreq = frequencyMap.values.maxOrNull() ?: return ""
-
-    return frequencyMap
-        .filter { it.value == maxFreq }
+    val maximumFrequency = frequencyMap.values.maxOrNull() ?: return ""
+    return frequencyMap.filter { it.value == maximumFrequency }
         .keys
         .minOrNull() ?: ""
 }
