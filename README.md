@@ -191,13 +191,13 @@
 
 ---
 
-## 2. <span style="color: #7F52FF;">Solve (530 Problems)</span>
+## 2. <span style="color: #7F52FF;">Solve (531 Problems)</span>
 
 <li><u style="text-decoration-color: #7F52FF;">Solve problems</u><span style="color: #7F52FF;">.</span></li>
 
 |                                    Name                                     | Problems / Mini Projects |
 |:---------------------------------------------------------------------------:|:------------------------:|
-|     <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>      |       157 Problems       |
+|     <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a>      |       158 Problems       |
 |   <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a>   |       272 Problems       |
 | <a style="color: #7F52FF;" href="https://www.w3resource.com">W3Resource</a> |       101 Problems       |
 
@@ -213,12 +213,12 @@
 </ul>
 </ul>
 
-### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (157 Problems) 🟩</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/M4MD24/public/overview">@M4MD24</a>)
+### <span>1. <a style="color: #7F52FF;" href="https://coderhub.sa">CoderHub</a> (158 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://profile.satr.codes/M4MD24/public/overview">@M4MD24</a>)
 
 1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges">Challenges</a>
     1. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=EASY">Easy</a> (80 Problems)
     2. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=MEDIUM">Medium</a> (54 Problems)
-    3. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (23 Problems)
+    3. <a style="color: #7F52FF;" href="https://coderhub.sa/challenges?solvedFilter=ALL&level=HARD">Hard</a> (24 Problems)
 
 ### <span>2. <a style="color: #7F52FF;" href="https://codeforces.com">Codeforces</a> (272 Problems) 🟥</span> (<a style="color: #7F52FF;" href="https://codeforces.com/profile/M4MD24">@M4MD24</a>)
 
